@@ -120,7 +120,7 @@ export class ProductComponent implements OnInit {
     },
     {
       'nome': 'Vestido Tule',
-      'preco': 'R$130,00',
+      'preco': 'R$80,00',
       'img': '../../assets/img/featured/feature-13.jpg',
       'categorias': [
         'vestidos', 'promocoes'
@@ -128,7 +128,7 @@ export class ProductComponent implements OnInit {
     },
     {
       'nome': 'Vestido Midi',
-      'preco': 'R$130,00',
+      'preco': 'R$99,00',
       'img': '../../assets/img/featured/feature-14.jpg',
       'categorias': [
         'vestidos', 'promocoes'
@@ -136,7 +136,7 @@ export class ProductComponent implements OnInit {
     },
     {
       'nome': 'Vestido Xadrez',
-      'preco': 'R$130,00',
+      'preco': 'R$89,00',
       'img': '../../assets/img/featured/feature-15.jpg',
       'categorias': [
         'vestidos', 'promocoes'
@@ -145,7 +145,7 @@ export class ProductComponent implements OnInit {
 
     {
       'nome': 'Vestido Poá',
-      'preco': 'R$130,00',
+      'preco': 'R$90,00',
       'img': '../../assets/img/featured/feature-16.jpg',
       'categorias': [
         'vestidos', 'promocoes'
@@ -154,7 +154,7 @@ export class ProductComponent implements OnInit {
 
     {
       'nome': 'Blusa Manga Curta',
-      'preco': 'R$130,00',
+      'preco': 'R$30,00',
       'img': '../../assets/img/featured/feature-17.jpg',
       'categorias': [
         'blusas', 'promocoes'
@@ -163,7 +163,7 @@ export class ProductComponent implements OnInit {
 
     {
       'nome': 'Blusa Stranger Things',
-      'preco': 'R$130,00',
+      'preco': 'R$30,00',
       'img': '../../assets/img/featured/feature-18.jpg',
       'categorias': [
         'blusas', 'promocoes'
@@ -171,7 +171,7 @@ export class ProductComponent implements OnInit {
     },
     {
       'nome': 'Blusa Tie Dye',
-      'preco': 'R$130,00',
+      'preco': 'R$30,00',
       'img': '../../assets/img/featured/feature-19.jpg',
       'categorias': [
         'blusass', 'promocoes'
@@ -179,7 +179,7 @@ export class ProductComponent implements OnInit {
     },
     {
       'nome': 'Blusa Manga Bufante',
-      'preco': 'R$130,00',
+      'preco': 'R$49,00',
       'img': '../../assets/img/featured/feature-20.jpg',
       'categorias': [
         'blusas', 'promocoes'
@@ -187,7 +187,7 @@ export class ProductComponent implements OnInit {
     },
     {
       'nome': 'Body Verde Militar',
-      'preco': 'R$130,00',
+      'preco': 'R$50,00',
       'img': '../../assets/img/featured/feature-21.jpg',
       'categorias': [
         'body', 'promocoes'
@@ -196,7 +196,7 @@ export class ProductComponent implements OnInit {
 
     {
       'nome': 'Body Vermelho',
-      'preco': 'R$130,00',
+      'preco': 'R$50,00',
       'img': '../../assets/img/featured/feature-22.jpg',
       'categorias': [
         'body', 'promocoes'
@@ -205,7 +205,7 @@ export class ProductComponent implements OnInit {
 
     {
       'nome': 'Body Off White',
-      'preco': 'R$130,00',
+      'preco': 'R$50,00',
       'img': '../../assets/img/featured/feature-23.jpg',
       'categorias': [
         'body', 'promocoes'
@@ -214,7 +214,7 @@ export class ProductComponent implements OnInit {
 
     {
       'nome': 'Body Canelado',
-      'preco': 'R$130,00',
+      'preco': 'R$50,00',
       'img': '../../assets/img/featured/feature-24.jpg',
       'categorias': [
         'body', 'promocoes'
@@ -222,7 +222,7 @@ export class ProductComponent implements OnInit {
     },
     {
       'nome': 'Short Jeans Mom',
-      'preco': 'R$130,00',
+      'preco': 'R$70,00',
       'img': '../../assets/img/featured/feature-25.jpg',
       'categorias': [
         'shorts', 'promocoes'
@@ -230,7 +230,7 @@ export class ProductComponent implements OnInit {
     },
     {
       'nome': 'Short Jeans Azul Escuro',
-      'preco': 'R$130,00',
+      'preco': 'R$70,00',
       'img': '../../assets/img/featured/feature-26.jpg',
       'categorias': [
         'shorts', 'promocoes'
@@ -238,7 +238,7 @@ export class ProductComponent implements OnInit {
     },
     {
       'nome': 'Short Azul Claro',
-      'preco': 'R$130,00',
+      'preco': 'R$60,00',
       'img': '../../assets/img/featured/feature-27.jpg',
       'categorias': [
         'shorts', 'promocoes'
@@ -247,7 +247,7 @@ export class ProductComponent implements OnInit {
 
     {
       'nome': 'Short Alfaiataria',
-      'preco': 'R$130,00',
+      'preco': 'R$69,90',
       'img': '../../assets/img/featured/feature-28.jpg',
       'categorias': [
         'shorts', 'promocoes'
@@ -256,7 +256,7 @@ export class ProductComponent implements OnInit {
 
     {
       'nome': 'Saia Marrom',
-      'preco': 'R$130,00',
+      'preco': 'R$49,00',
       'img': '../../assets/img/featured/feature-29.jpg',
       'categorias': [
         'saias', 'promocoes'
@@ -265,7 +265,7 @@ export class ProductComponent implements OnInit {
 
     {
       'nome': 'Saia Fenda Preta',
-      'preco': 'R$130,00',
+      'preco': 'R$50,00',
       'img': '../../assets/img/featured/feature-30.jpg',
       'categorias': [
         'saias', 'promocoes'
@@ -273,7 +273,7 @@ export class ProductComponent implements OnInit {
     },
     {
       'nome': 'Saia Xadrez',
-      'preco': 'R$130,00',
+      'preco': 'R$45,00',
       'img': '../../assets/img/featured/feature-31.jpg',
       'categorias': [
         'saias', 'promocoes'
@@ -281,7 +281,7 @@ export class ProductComponent implements OnInit {
     },
     {
       'nome': 'Saia Argola Rose',
-      'preco': 'R$130,00',
+      'preco': 'R$70,00',
       'img': '../../assets/img/featured/feature-32.jpg',
       'categorias': [
         'saias', 'promocoes'
@@ -315,102 +315,42 @@ export class ProductComponent implements OnInit {
     },
 
     {
-      'nome': 'Brinco',
-      'preco': 'R$130,00',
+      'nome': 'Bolsa',
+      'preco': 'R$30,00',
       'img': '../../assets/img/featured/feature-36.jpg',
       'categorias': [
-        'calcas', 'promocoes'
+        'acessorios', 'promocoes'
       ]
     },
     {
       'nome': 'Bolsa',
-      'preco': 'R$130,00',
+      'preco': 'R$50,00',
       'img': '../../assets/img/featured/feature-37.jpg',
       'categorias': [
-        'calcas', 'promocoes'
+        'acessorios', 'promocoes'
       ]
     },
     {
       'nome': 'Bolsa',
-      'preco': 'R$130,00',
+      'preco': 'R$50,00',
       'img': '../../assets/img/featured/feature-38.jpg',
       'categorias': [
-        'calcas', 'promocoes'
+        'acessorios', 'promocoes'
       ]
     },
     {
-      'nome': 'Calça',
-      'preco': 'R$130,00',
+      'nome': 'Bolsa',
+      'preco': 'R$50,00',
       'img': '../../assets/img/featured/feature-39.jpg',
       'categorias': [
-        'calcas', 'promocoes'
+        'acessorios', 'promocoes'
       ]
     },
 
     {
-      'nome': 'Calça',
-      'preco': 'R$130,00',
+      'nome': 'Bolsa',
+      'preco': 'R$50,00',
       'img': '../../assets/img/featured/feature-40.jpg',
-      'categorias': [
-        'calcas', 'promocoes'
-      ]
-    },
-
-    {
-      'nome': 'Calça',
-      'preco': 'R$130,00',
-      'img': '../../assets/img/featured/feature-41.jpg',
-      'categorias': [
-        'acessorios', 'promocoes'
-      ]
-    },
-
-    {
-      'nome': 'Calça',
-      'preco': 'R$130,00',
-      'img': '../../assets/img/featured/feature-42.jpg',
-      'categorias': [
-        'acessorios', 'promocoes'
-      ]
-    },
-    {
-      'nome': 'Calça',
-      'preco': 'R$130,00',
-      'img': '../../assets/img/featured/feature-43.jpg',
-      'categorias': [
-        'acessorios', 'promocoes'
-      ]
-    },
-    {
-      'nome': 'Calça',
-      'preco': 'R$130,00',
-      'img': '../../assets/img/featured/feature-44.jpg',
-      'categorias': [
-        'acessorios', 'promocoes'
-      ]
-    },
-    {
-      'nome': 'Calça',
-      'preco': 'R$130,00',
-      'img': '../../assets/img/featured/feature-45.jpg',
-      'categorias': [
-        'acessorios', 'promocoes'
-      ]
-    },
-
-    {
-      'nome': 'Calça',
-      'preco': 'R$130,00',
-      'img': '../../assets/img/featured/feature-46.jpg',
-      'categorias': [
-        'acessorios', 'promocoes'
-      ]
-    },
-
-    {
-      'nome': 'Brinco',
-      'preco': 'R$130,00',
-      'img': '../../assets/img/featured/feature-47.jpg',
       'categorias': [
         'acessorios', 'promocoes'
       ]
@@ -418,23 +358,83 @@ export class ProductComponent implements OnInit {
 
     {
       'nome': 'Colar',
-      'preco': 'R$130,00',
+      'preco': 'R$40,00',
+      'img': '../../assets/img/featured/feature-41.jpg',
+      'categorias': [
+        'acessorios', 'promocoes'
+      ]
+    },
+
+    {
+      'nome': 'Colar',
+      'preco': 'R$40,00',
+      'img': '../../assets/img/featured/feature-42.jpg',
+      'categorias': [
+        'acessorios', 'promocoes'
+      ]
+    },
+    {
+      'nome': 'Brinco',
+      'preco': 'R$20,00',
+      'img': '../../assets/img/featured/feature-43.jpg',
+      'categorias': [
+        'acessorios', 'promocoes'
+      ]
+    },
+    {
+      'nome': 'Brinco Dourado',
+      'preco': 'R$23,00',
+      'img': '../../assets/img/featured/feature-44.jpg',
+      'categorias': [
+        'acessorios', 'promocoes'
+      ]
+    },
+    {
+      'nome': 'Lenço',
+      'preco': 'R$15,00',
+      'img': '../../assets/img/featured/feature-45.jpg',
+      'categorias': [
+        'acessorios', 'promocoes'
+      ]
+    },
+
+    {
+      'nome': 'Gorro Vermelho',
+      'preco': 'R$20,00',
+      'img': '../../assets/img/featured/feature-46.jpg',
+      'categorias': [
+        'acessorios', 'promocoes'
+      ]
+    },
+
+    {
+      'nome': 'Mochila',
+      'preco': 'R$170,00',
+      'img': '../../assets/img/featured/feature-47.jpg',
+      'categorias': [
+        'acessorios', 'promocoes'
+      ]
+    },
+
+    {
+      'nome': 'Bolsa Rose',
+      'preco': 'R$75,00',
       'img': '../../assets/img/featured/feature-48.jpg',
       'categorias': [
         'acessorios', 'promocoes'
       ]
     },
     {
-      'nome': 'Anel',
-      'preco': 'R$130,00',
+      'nome': 'Relógio',
+      'preco': 'R$200,00',
       'img': '../../assets/img/featured/feature-49.jpg',
       'categorias': [
         'acessorios', 'promocoes'
       ]
     },
     {
-      'nome': 'Anel',
-      'preco': 'R$130,00',
+      'nome': 'Cinto',
+      'preco': 'R$40,00',
       'img': '../../assets/img/featured/feature-50.jpg',
       'categorias': [
         'acessorios', 'promocoes'
